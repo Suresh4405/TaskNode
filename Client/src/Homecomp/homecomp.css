@@ -1,0 +1,7 @@
+.image-homecom{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 900px;
+    background-color: antiquewhite;
+}
